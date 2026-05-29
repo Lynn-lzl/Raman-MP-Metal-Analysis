@@ -1,0 +1,8 @@
+numpy==2.2.6
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.3
+tabpfn==6.0.6
+tabpfn-common-utils==0.2.19
+torch==2.9.1
+openpyxl==3.1.5
